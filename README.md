@@ -106,11 +106,6 @@ nodemon index.js
 | `/chats/:id`      | PATCH  | Update chat          |
 | `/chats/:id`      | DELETE | Delete chat          |
 
----
-
-## 📸 Screenshot
-
-Chat messages displayed in a **card layout** with sender, receiver, message, and timestamp.
 
 ---
 
