@@ -1,0 +1,40 @@
+body{
+  background-color:  #a5f8d3;
+  justify-self: center;
+}
+#form{
+  background-color: #a0b9c6;
+  text-align: center;
+  border-radius: 16px;
+  height: 400px;
+  width: 300px;
+  font-size: 20px;
+  margin-top: 60px;
+  box-shadow: 8px 8px 13px gray;
+}
+#head{
+  font-size: 30px;
+}
+#msg{
+  height: 150px;
+  width: 250px;
+  font-size: large;
+  border-radius: 10px;
+  margin-top: 5px;
+  background-color:  #9a98b5;
+}
+input{
+  height: 30px;
+  border-radius: 10px;
+   background-color:  #9a98b5;
+   margin-top: 3px;
+   font-size: medium;
+}
+button{
+  background-color: #995fa3;
+  height: 35px;
+  width: 63px;
+  margin-top: 15px;
+  border-radius: 10px;
+  font-weight: bold;
+}

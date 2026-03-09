@@ -1,0 +1,42 @@
+body{
+  margin-left: 20px;
+  padding: 20px;
+  background-color: #a5f8d3;
+}
+#chat{
+  background-color: #a0b9c6;
+  width: 20%;
+  border-radius: 10px;
+  display: inline-block;
+  text-align: center;
+  box-shadow: 8px 8px 13px gray;
+}
+
+#cards{
+  display: flex;
+    flex-wrap: wrap;       /* This allows cards to move to the next line if there's no space */
+    gap: 20px;            /* Adds spacing between the cards */
+    justify-content: center; /* Centers the cards horizontally */
+    padding: 20px;
+}
+
+#msg{
+  background-color: #9a98b5;
+
+  border-radius: 20px;
+}
+
+#head{
+  text-align: center;
+}
+#cards button{
+  background-color: #995fa3;
+  height:20px
+}
+#new-btn{
+  background-color: #995fa3;
+  height: 35px;
+  width: 100px;
+  border-radius: 16px;
+  font-weight: bold;
+}
